@@ -15,6 +15,9 @@
 
 [<img align="right" width="450" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hasansust32&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>](  #  )
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansust32&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### 💻 Currently working on:
 
 - A research on Bangla NLP

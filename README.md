@@ -3,11 +3,9 @@
 [![Resume](https://img.shields.io/badge/Resume-informational)](#)
 [![Website](https://img.shields.io/badge/%20-SM_Mahamudul_Hasan-black?color=14171A&labelColor=EB6864&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=)](https://hasansust32.github.io/me/)
 [![Email Address](https://img.shields.io/badge/%20-smmahamudul32@student.sust.edu-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:smmahamudul32@student.sust.edu) 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-SM_Mahamudul_Hasan-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasanmahmud032/)   
+[![LinkedIn Connect](https://img.shields.io/badge/%20-SM_Mahamudul_Hasan-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasanmahmud032/)  
 
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kfnouukuf7m7ahn58ukf" alt="trackgit-views" />
-</a>
+![Profile views](https://gpvc.arturio.dev/hasansust32) 
 
 ## My stacks
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=79740e&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=79740e&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=79740e&labelColor=211e1b) <br/>

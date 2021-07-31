@@ -25,15 +25,6 @@
 [<img align="right" width="450" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hasansust32&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>](https://hasansust32.github.io/me/)
 
 
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansust32&layout=compact&exclude_repo=Personality-Prediction-Based-on-Twitter-Data&langs_count=7&show_icons=true&theme=radical&count_private=true&hide=PowerShell,CSS,SCSS)](https://github.com/hasansust32/hasansust32)
-
-
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansust32&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
@@ -54,3 +45,9 @@
 #### 💚 Love to do:
 
 - Travelling, Drawing Ambigrams, Reading Books, Eating 😛
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansust32&layout=compact&exclude_repo=Personality-Prediction-Based-on-Twitter-Data&langs_count=7&show_icons=true&theme=radical&count_private=true&hide=PowerShell,CSS,SCSS)](https://github.com/hasansust32/hasansust32)

@@ -1,11 +1,11 @@
 [![👋 Hi there, I am Hasan Mahmud](https://github.com/hasansust32/hasansust32/blob/master/greeting.svg)](https://hasansust32.github.io/me/)
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1GYQhE6mfP7AXo8K61Rz2YYM7CkJ8lOci/view">
+  <a href="https://www.hasansm.com/wp-content/uploads/2025/11/CV_SM_Hasan.pdf">
     <img src="https://img.shields.io/badge/Resume-View_CV-informational?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   
-  <a href="https://hasansust32.github.io/me/">
+  <a href="https://www.hasansm.com/">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   

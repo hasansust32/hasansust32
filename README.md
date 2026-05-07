@@ -1,4 +1,4 @@
-[![👋 Hi there, I am Hasan Mahmud](https://github.com/hasansust32/hasansust32/blob/master/greeting.svg)](https://hasansust32.github.io/me/)
+[![👋 Hi there, I am Hasan Mahmud](https://github.com/hasansust32/hasansust32/blob/master/greeting.svg)](https://www.hasansm.com/)
 
 <p align="center">
   <a href="https://www.hasansm.com/wp-content/uploads/2025/11/CV_SM_Hasan.pdf">
@@ -30,30 +30,107 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Core Competencies
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php,bash" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,js,ts,php,dart,bash" />
 </p>
 
-### ⚡ Frameworks & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,django,laravel,wordpress,androidstudio,spring,nodejs" />
+<p>
+  <img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Queries_&_Database_Logic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groovy-Scripting-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
 </p>
 
-### 🛢️ Databases & Cloud
+---
+
+### 🤖 AI, Machine Learning & NLP
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/LLM-Large_Language_Models-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPT-AI_Tooling-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-Transformer_Models-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-Deep_Learning-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Networks-ML_Models-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Model_Deployment-326CE5?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 Data Science, Analytics & BI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,graphql,selenium,redux" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive_Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-Data_Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-BI_Reporting-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Data_Reporting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-Data_Pipelines-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A%2FB_Testing-Experimentation-673AB7?style=for-the-badge" />
+</p>
+
+---
+
+### 🌐 Web Development & Pricing Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,fastapi,django,laravel,flutter" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PriceFx-Pricing_Systems-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP_CPQ-Configure_Price_Quote-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pricing_Logic-Development-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk_Analysis-Quantitative_Analysis-B71C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEO-Search_Optimization-47A248?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B2C-Digital_Solutions-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EdTech-Educational_Technology-009688?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Tools, Platforms & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,docker,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-Issue_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-Development_Process-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation_Pipeline-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version_Control-Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Office-Productivity-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-Presentations-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+</p>
+
+---
+
+### 💼 Business, Consulting & Soft Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Communication-Professional_Skills-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaboration-Teamwork-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Analytical_Thinking-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Expertise-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business_Case-Consulting-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time_Management-Organisational_Skills-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coaching_&_Tutoring-Learning_Outcomes-00BCD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User_Engagement-EdTech_Impact-E91E63?style=for-the-badge" />
 </p>
 
 ---

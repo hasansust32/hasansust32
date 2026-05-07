@@ -204,36 +204,42 @@ https://github.com/hasansust32/P2P_chat_application_android
 
 # 🧠 Current Interests
 
-- Deep Learning
-- Natural Language Processing
-- Biomedical Image Processing
-- Computer Vision
-- AI Research
-- Process Automation
-- Full Stack Development
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Research_&_Applications-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Bangla_Text_Processing-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-GPT_&_BERT_Models-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Healthcare_AI-Biomedical_Prediction-D00000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-Analytics_&_Automation-013243?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pricing_Systems-Pricefx_&_SAP_CPQ-0052CC?style=for-the-badge" />
+</p>
 
 ---
 
 # 🤝 I Can Help With
 
-✅ Python Development  
-✅ Machine Learning & Deep Learning Basics  
-✅ Research Projects  
-✅ WordPress & eCommerce Development  
-✅ Process Automation  
-✅ Android Development  
-✅ REST API Development  
+<p>
+  <img src="https://img.shields.io/badge/Python-Data_&_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Model_Building-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Text_Classification-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Pandas_NumPy_SQL-150458?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BI_Reporting-PowerBI_Tableau_Looker-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Development-WordPress_HTML_CSS_JS-21759B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Development-FastAPI_JSON_Backend-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-AI_ML_Publications-9C27B0?style=for-the-badge" />
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced Deep Learning Architectures
-- Generative AI & LLMs
-- AI Agents & Automation
-- Scalable Backend Systems
-- Cloud-native Application Development
-
+<p>
+  <img src="https://img.shields.io/badge/MSc_AI_&_Robotics-University_of_Hertfordshire-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Advanced_Deep_Learning-Neural_Networks-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Model_Deployment_&_Pipelines-326CE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-Automation_&_Tooling-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-Simulation_&_Decision_Making-455A64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud_Backend-Scalable_Systems-0FAAFF?style=for-the-badge" />
+</p>
 ---
 
 # 🎨 Beyond Coding
